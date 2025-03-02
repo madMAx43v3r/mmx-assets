@@ -18,6 +18,7 @@ Primary colors:
 | $\color{rgb(0,0,0)}{\textsf{█}}$ Black | `rgb(0,0,0)` | `#000000` |
 
 Assets:
+- [`/logo/artwork/`](/logo/artwork/) _(artwork)_
 - [`/logo/assets/`](/logo/assets/) _(misc)_
 - [`/logo/raster/`](/logo/raster/) _(.png)_
 - [`/logo/vector/`](/logo/vector/) _(.svg)_
